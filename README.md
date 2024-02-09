@@ -48,5 +48,3 @@ Time Series Analysis:
 Chart energy and GHG trends over the years.
 Identify any seasonal patterns.
 Dashboard Creation:
-
-Build interactive dashboards with filters 

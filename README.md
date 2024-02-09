@@ -11,26 +11,32 @@ Dataset Information
 The dataset contains information about BPS organizations, including the following key attributes:
 
 Sector: Represents the sector of the organization (e.g., Public Hospital, School Board).
+
 SubSector: Provides further classification within the sector.
 Organization: Name of the BPS organization.
+
 Operation: Specific operation or facility within the organization.
+
 Address, City, Postal Code: Location details of the organization.
+
 Energy Usage: Information about electricity, natural gas, fuel oil, propane, coal, wood, district heating, and district cooling consumption.
+
 GHG Emissions: Greenhouse gas emissions in kilograms.
 
+
 Data Preparation and Cleansing
+
 To ensure the data is suitable for analysis, follow these steps:
 
 Handling Missing Values: Identify and handle missing values in the dataset.
+
 Standardizing Units: Ensure consistency in units for energy usage and GHG emissions.
+
 Deriving Relevant Features: Create new features that may enhance analysis.
+
 Segmentation: Segment the data by relevant factors like sector, organization type, and facility size.
 
 Exploratory Data Analysis (EDA) - Tableau
-Import Data:
-
-Connect to the cleaned dataset in Tableau.
-Initial Exploration:
 
 Correlation Analysis:
 
